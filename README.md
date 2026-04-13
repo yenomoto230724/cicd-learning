@@ -1,3 +1,3 @@
 # cicd-learning
 
-github ci/cd実践ガイドの学習用リポジトリです。
+『 GitHub CI/CD実践ガイド』の学習用リポジトリです。
